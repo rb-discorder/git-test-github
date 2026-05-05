@@ -1,2 +1,4 @@
-def fichiergit(n):
-    return n*n
+def fichiergit():
+    return 
+
+print("cest une dinguerie")
