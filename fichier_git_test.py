@@ -1,2 +1,2 @@
-def fichiergit():
-    return 
+def fichiergit(n):
+    return n*n
